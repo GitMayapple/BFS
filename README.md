@@ -1,5 +1,5 @@
 # BFS
-A very simple offense system for getting started in Achaean combat. Requires AK Opponent Tracking and Legacy curing.
+A very simple offense system for getting started in Achaean combat. Requires AK Opponent Tracking and SVO or Legacy curing.
 
 ### CLASSES INCLUDED:
 - Runewarden DWC (scimitar only)
